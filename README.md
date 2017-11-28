@@ -14,7 +14,7 @@ library('plyr')
 library('MASS')
 library('gtools')
 library('irr')
-library('Kendall')
+
 ```
 ## Expected data structures
 
