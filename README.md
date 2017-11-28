@@ -1,4 +1,22 @@
+
+
 # jaccard_matrices_R
+
+
+## Expected libraries
+```
+library('statnet')
+library('ergm')
+library('readr')
+library('igraph')
+library('intergraph')
+library('plyr')
+library('MASS')
+library('gtools')
+library('irr')
+library('Kendall')
+library(corrplot)
+```
 
 ## 1. Functions
 ### 1.1. Jaccard function
