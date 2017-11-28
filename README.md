@@ -15,7 +15,6 @@ library('MASS')
 library('gtools')
 library('irr')
 library('Kendall')
-library(corrplot)
 ```
 ## Expected data structures
 
