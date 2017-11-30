@@ -2,6 +2,8 @@
 
 # jaccard_matrices_R
 
+Following the method described in:
+> Vörös, A. (2015). The emergence of multiple status systems in adolescent communities: a multiplex network theory of group formation (Doctoral dissertation, University of Oxford).
 
 ## Expected libraries
 ```
